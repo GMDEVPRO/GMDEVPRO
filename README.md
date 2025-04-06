@@ -1,11 +1,11 @@
-<h2 align="left">About Me</h2>
+<img 
+  src="https://github.com/GMDEVPRO/GMDEVPRO/blob/main/Banner%20do%20github.png?raw=true" 
+  alt="Banner GitHub" 
+  style="width: 100%; border-radius: 8px;" 
+/>
+
 
 ###
-
-<p align="left">* Desenvolvedor-Web<br>* Cursando Graduacao em Analise e desenvolvimento de sistema <br>* Ingles : intermediario<br>* Frances : fluente</p>
-
-<p align="left">Contato!</p>
-
 ###
 <div align="left">
   <a href="https://www.linkedin.com/in/guydjoumessi/" target="_blank">
