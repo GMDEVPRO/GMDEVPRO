@@ -3,9 +3,9 @@
 <h1>👨🏾‍💻 Guy Djoumessi</h1>
 
 <p>
-<span style="font-weight:bold">Back-end dev | Java ☕ | Spring Boot 🌱</span><br>
-Construindo coisas que funcionam — não só que parecem bonitas.<br>
-Sempre em constante aprendizado e evolução 💡
+<span style="font-weight:bold">Back-end Dev | Java ☕ | Spring Boot 🌱</span><br>
+Building things that work — not just things that look good.<br>
+Always learning and evolving 💡
 </p>
 
 <div>
@@ -24,7 +24,7 @@ Sempre em constante aprendizado e evolução 💡
 
 ---
 
-<h2 align="center">⚙️ Stack</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <div align="center">
 
@@ -44,20 +44,20 @@ Sempre em constante aprendizado e evolução 💡
 
 ---
 
-<h2 align="center">🧪 Em progresso</h2>
+<h2 align="center">🧪 In Progress</h2>
 
 <div align="center">
-- 🔹 APIs REST com Spring Boot  
-- 🔹 Clean Code & boas práticas  
-- 🔹 Integração front + back  
-- 🔹 Automatização e testes  
-- 🔹 Persistência de dados com PostgreSQL  
-- 🔹 Aprimorando skills em Angular & React
+- 🔹 REST APIs with Spring Boot  
+- 🔹 Clean Code & best practices  
+- 🔹 Front-end + Back-end integration  
+- 🔹 Automation and testing  
+- 🔹 Data persistence with PostgreSQL  
+- 🔹 Improving skills in Angular & React
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub no sangue</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GMDEVPRO&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -71,6 +71,6 @@ Sempre em constante aprendizado e evolução 💡
 ---
 
 <p align="center">
-💻 Café → Código → Erro → Debug → Aprendizado → Repeat  
-✨ Sempre aprendendo e evoluindo!
+💻 Coffee → Code → Error → Debug → Learn → Repeat  
+Always learning and evolving!
 </p>
