@@ -1,70 +1,76 @@
-<img 
-  src="https://github.com/GMDEVPRO/GMDEVPRO/blob/main/Banner%20do%20github.png?raw=true" 
-  alt="Banner GitHub" 
-  style="width: 100%; border-radius: 8px;" 
-/>
+<div align="center">
 
+<h1>👨🏾‍💻 Guy Djoumessi</h1>
 
-###
-###
-<div align="left">
+<p>
+<span style="font-weight:bold">Back-end dev | Java ☕ | Spring Boot 🌱</span><br>
+Construindo coisas que funcionam — não só que parecem bonitas.<br>
+Sempre em constante aprendizado e evolução 💡
+</p>
+
+<div>
   <a href="https://www.linkedin.com/in/guydjoumessi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
   </a>
-  
-  
-  <a href="https://wa.me/55seunumerodetelefone" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  <a href="https://wa.me/5511958567231" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" />
   </a>
-  
-  
   <a href="mailto:guymartialdjoumessi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
   </a>
 </div>
 
-
-###
-
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring boot logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
 </div>
 
+---
 
+<h2 align="center">⚙️ Stack</h2>
 
-###
+<div align="center">
 
-<h2 align="left">Stats</h2>
+**Back-end:**  
+<img src="https://skillicons.dev/icons?i=java,spring,py&theme=dark" height="50" />
 
+**Front-end:**  
+<img src="https://skillicons.dev/icons?i=js,angular,react,html,css,sass&theme=dark" height="50" />
 
+**Database:**  
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="50" />
 
-###
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=postman,git,docker&theme=dark" height="50" />
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GMDEVPRO&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GMDEVPRO&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMDEVPRO&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-###
+---
 
+<h2 align="center">🧪 Em progresso</h2>
+
+<div align="center">
+- 🔹 APIs REST com Spring Boot  
+- 🔹 Clean Code & boas práticas  
+- 🔹 Integração front + back  
+- 🔹 Automatização e testes  
+- 🔹 Persistência de dados com PostgreSQL  
+- 🔹 Aprimorando skills em Angular & React
+</div>
+
+---
+
+<h2 align="center">📊 GitHub no sangue</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GMDEVPRO&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GMDEVPRO&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMDEVPRO&theme=tokyo-night&area=true" height="280"/>
+</div>
+
+---
+
+<p align="center">
+💻 Café → Código → Erro → Debug → Aprendizado → Repeat  
+✨ Sempre aprendendo e evoluindo!
+</p>
