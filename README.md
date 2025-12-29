@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👨🏾‍💻 Guy Djoumessi</h1>
+<h1>👨🏾‍💻 "Full Stack Developer"</h1>
 
 <p>
 <span style="font-weight:bold">Back-end Dev | Java ☕ | Spring Boot 🌱</span><br>
