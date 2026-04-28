@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Banner Principal GMDEVPRO -->
-<img src="https://raw.githubusercontent.com/GMDEVPRO/GMDEVPRO/main/github_banner_gmdevpro.png" alt="GMDEVPRO Banner" width="100%">
+<img src="github_banner_gmdevpro.png" alt="GMDEVPRO Banner" width="100%">
+
 
   
 
