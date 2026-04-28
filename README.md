@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Principal GMDEVPRO -->
-<img width="1680" height="720" alt="Image" src="https://github.com/user-attachments/assets/feeb92a9-b79a-4250-8ba9-712d86cb902d" />" width="100%">
+<img width="1680" height="720" alt="Image" src="https://github.com/user-attachments/assets/feeb92a9-b79a-4250-8ba9-712d86cb902d" />
 
 
   
