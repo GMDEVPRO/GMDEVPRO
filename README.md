@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Principal GMDEVPRO -->
-<img src="https://github.com/GMDEVPRO/GMDEVPRO/issues/1#issue-4345043872" width="100%">
+<img src="<img width="1680" height="720" alt="Image" src="https://github.com/user-attachments/assets/feeb92a9-b79a-4250-8ba9-712d86cb902d" />" width="100%">
 
 
   
