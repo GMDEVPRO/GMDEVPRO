@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Specialist;Building+Reliable+Solutions;Always+Learning+%26+Evolving" alt="Typing SVG" />
 
 <p align="center">
-  <strong>Back-end Dev | Java ☕ | Spring Boot 🌱</strong>  
+  <strong>Java Backend Developer | Spring Boot | Microservices | São Paulo, BR</strong>  
 
   <em>"Building things that work — not just things that look good."</em>
 </p>
@@ -39,19 +39,11 @@
 
 ---
 
-### 🧪 In Progress & Learning Path
 
-<div align="center">
-
-| Status | Knowledge Area | Focus |
-| :---: | :--- | :--- |
-| 🚀 | **Backend Mastery** | REST APIs with Spring Boot & Data Persistence |
-| 💎 | **Quality Code** | Clean Code, Design Patterns & Best Practices |
-| 🔗 | **Full Stack** | Seamless Front-end + Back-end Integration |
-| 🧪 | **Reliability** | Automation, Testing & CI/CD |
-| 🎨 | **Frontend** | Advanced Skills in Angular & React |
-
-</div>
+## 🚀 O que estou construindo
+- 🔹 Edukira — SaaS de gestão escolar (Java 21 + Spring Boot + React)
+- 🔹 StaffOne — plataforma de RH com arquitetura de microsserviços
+- 🔹 Backend com 9 microsserviços: auth, gateway, tenant, ticket e mais
 
 ---
 
